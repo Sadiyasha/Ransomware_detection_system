@@ -1,0 +1,5 @@
+SENTINEL AI TEST FILE 2
+Simulated ransomware modification 1
+Simulated ransomware modification 2
+Simulated ransomware modification 3
+Simulated ransomware modification 4

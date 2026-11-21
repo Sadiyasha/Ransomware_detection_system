@@ -1,0 +1,4 @@
+This is normal document number 2.
+The user is creating and editing an ordinary text file.
+No suspicious encryption activity is occurring.
+Additional normal content was saved.
